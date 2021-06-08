@@ -10,6 +10,7 @@ namespace Example.Test
         {
             var a = 0;
             var b = 0;
+            var c = 1;
 
             Assert.Equal(a, b);
         }
